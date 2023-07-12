@@ -5,3 +5,5 @@ This repository contains multiple Python code directories, each representing a d
 ## 0x00-python_variable_annotations
 This directory contains Python scripts that demonstrate variable annotations and type hints. Each script corresponds to a specific task and includes a type-annotated function or variable declarations.
 
+## 0x02-python_async_comprehension
+This directory includes scripts related to asynchronous generator and comprehensions. The scripts in this directory explore the concepts of asynchronous programming in Python.
